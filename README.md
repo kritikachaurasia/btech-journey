@@ -5,5 +5,5 @@ This repository contains my daily coding practice and learning during my B.Tech 
 - C++
 
 #Goal
-Solve DSA problems consistently and prepare for software engineering roles
+- Solve DSA problems consistently and prepare for software engineering roles
 
