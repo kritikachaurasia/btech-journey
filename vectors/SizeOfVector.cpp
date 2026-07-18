@@ -1,4 +1,5 @@
-          // SIZE OF VECTOR
+      // FUNCTION-SIZE OF VECTOR
+      //( tells how many elements are present)
 
 #include<iostream>
 #include<vector>

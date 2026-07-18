@@ -1,4 +1,5 @@
       // FUNCTION- POP BACK
+      //( REMOVE THE LAST ELEMENT)
 
 #include<iostream>
 #include<vector>

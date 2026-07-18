@@ -10,8 +10,11 @@
     vec.push_back(35);
     vec.push_back(45);
 cout<< "after push back size= "<<vec.size()<<endl;
-    vec.pop_back(); //45
-    cout<< vec.back()<<endl;
+   
+     //FUNCTION - BACK
+     // (Returns the last element) vec.pop_back(); //45
+   
+     cout<< vec.back()<<endl;
     cout<< vec.front()<<endl;
     return 0;
   }

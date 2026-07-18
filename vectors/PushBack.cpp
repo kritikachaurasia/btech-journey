@@ -1,4 +1,5 @@
      // FUNCTION- PUSH BACK 
+     // (ADD AN ELEMENT AT THE END OF THE VECTOR)
 #include<iostream>
 #include<vector>
 using namespace std; 

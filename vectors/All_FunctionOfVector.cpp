@@ -18,8 +18,8 @@ int main(){
     vec.push_back(45);
 
     cout<<"after push back size = "<<vec.size() <<endl;
-    cout<< "back value before pop back"<<vec.back()<<endl;
-    vec.pop_back();// delete 45
+    cout<< "back value before pop back= "<<vec.back()<<endl;
+    vec.pop_back();
    
     cout<<"after pop back size = "<<vec.size()<<endl;
     cout<< vec.front()<<endl;
